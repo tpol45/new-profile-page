@@ -1,2 +1,9 @@
-let hey = 'hey'
-return hey
+function heyo () = {
+    let hey = 'hey'
+    return hey
+}
+
+function betch () = {
+    let bitches = 'bitches'
+    return bitches
+}
